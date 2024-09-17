@@ -1,6 +1,11 @@
 # Sometime for android preview
 
+## Invite link
+
+Click [here](https://appdistribution.firebase.dev/i/bbdde927f9cbc7dc)
+
 ## Download link
+
 Click <a href="https://appdistribution.firebase.google.com/testerapps/1:935912888321:android:ef0f1e0dbd3c83734c4800/releases/2tv5stab6rcvg?utm_source=firebase-console" target="_blank">here</a>
 
 Copyright 2024 IM DONGHYEON
