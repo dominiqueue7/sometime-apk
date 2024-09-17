@@ -1,5 +1,8 @@
-# sometime-apk
-For preview SomeTime app
+# Sometime for android preview
+
+## Download link
+https://appdistribution.firebase.google.com/testerapps/1:935912888321:android:ef0f1e0dbd3c83734c4800/releases/2tv5stab6rcvg?utm_source=firebase-console
+
 
 Copyright 2024 IM DONGHYEON
 
