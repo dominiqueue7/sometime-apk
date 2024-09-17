@@ -2,7 +2,7 @@
 
 ## Invite link
 
-Click [here](https://appdistribution.firebase.dev/i/bbdde927f9cbc7dc)
+Click [here](https://appdistribution.firebase.dev/i/f97123131ab4ed32)
 
 ## Download link
 
