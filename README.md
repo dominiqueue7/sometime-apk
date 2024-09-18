@@ -1,10 +1,10 @@
 # Sometime for android preview
 
-## First, register with the tester
+## 1. register with the tester
 
 Click [here](https://appdistribution.firebase.dev/i/f97123131ab4ed32)
 
-## And then install the app from the link below
+## 2. install the app from the link below (or install from email)
 
 Click <a href="https://appdistribution.firebase.google.com/testerapps/1:935912888321:android:ef0f1e0dbd3c83734c4800/releases/2tv5stab6rcvg?utm_source=firebase-console" target="_blank">here</a>
 
