@@ -2,11 +2,10 @@
 
 ## 1. register with the tester
 
-Click [here](https://appdistribution.firebase.dev/i/f97123131ab4ed32)
+Click [here](https://appdistribution.firebase.dev/i/42ffdf33b4fbf94e)
 
-## 2. install the app from the link below (or install from email)
+## 2. Please install the app through the link sent by email.
 
-Click <a href="https://appdistribution.firebase.google.com/testerapps/1:935912888321:android:ef0f1e0dbd3c83734c4800/releases/2tv5stab6rcvg?utm_source=firebase-console" target="_blank">here</a>
 
 # Copyright
 
